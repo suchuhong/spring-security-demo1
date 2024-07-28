@@ -21,6 +21,6 @@
 [Architecture](https://docs.spring.io/spring-security/reference/servlet/architecture.html)
 
 [Username/Password Authentication](https://docs.spring.io/spring-security/reference/5.8/servlet/authentication/passwords/index.html)
-    
 
+https://www.baeldung.com/spring-security-registration-password-encoding-bcrypt
 
